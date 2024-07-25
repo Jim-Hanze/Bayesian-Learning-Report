@@ -1,0 +1,6 @@
+image_num:{baby.png}	PSNR:{29.66}	SSIM:{0.8141}	PSNR_KERNEL:{49.02}
+image_num:{bird.png}	PSNR:{31.27}	SSIM:{0.8951}	PSNR_KERNEL:{97.30}
+image_num:{butterfly.png}	PSNR:{22.26}	SSIM:{0.7674}	PSNR_KERNEL:{149.83}
+image_num:{head.png}	PSNR:{30.25}	SSIM:{0.7101}	PSNR_KERNEL:{195.49}
+image_num:{woman.png}	PSNR:{27.55}	SSIM:{0.8579}	PSNR_KERNEL:{247.28}
+*****Average Result: image_num:{5}	PSNR:{28.20}	SSIM:{0.8089}	kernelPSNR:{49.4560}*****

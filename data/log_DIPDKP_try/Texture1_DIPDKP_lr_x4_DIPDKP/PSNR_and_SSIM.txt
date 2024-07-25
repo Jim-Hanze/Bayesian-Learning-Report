@@ -1,0 +1,2 @@
+image_num:{Textures_1.png}	PSNR:{19.19}	SSIM:{0.6065}	PSNR_KERNEL:{53.14}
+*****Average Result: image_num:{1}	PSNR:{19.19}	SSIM:{0.6065}	kernelPSNR:{53.1377}*****
